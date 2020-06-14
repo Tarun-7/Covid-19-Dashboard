@@ -16,3 +16,6 @@ It contains
 
 #### [2. Tableau Workbook file](https://github.com/Tarun-7/Covid-19-Dashboard/blob/master/Workbook-1.twbx)
 This is Dashboard Workbook file built using Tableau.
+
+## Author
+Tarun Sunkara | [LinkedIn](https://www.linkedin.com/in/tarunkumar-sunkara/)
