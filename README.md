@@ -1,11 +1,9 @@
 # Covid-19 Dashboard
-_____________________________________________________________________________________________________________________________
 
 ![Covid-19 Dashboard](https://github.com/Tarun-7/Covid-19-Dashboard/blob/master/Covid-19%20Dashboard.png)
 
 
 ## Background:
-______________________________________________________________________________________________________________________________
 
 This Repository contians sourcecode for the Covid-19 Dashboard. Data visualization is done using Tableau Software. The following files are present in the repository:
 
